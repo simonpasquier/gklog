@@ -5,6 +5,7 @@ require (
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	k8s.io/klog v1.0.0
+	k8s.io/klog/v2 v2.120.0
 )
 
 go 1.13
